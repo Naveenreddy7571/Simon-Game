@@ -1,0 +1,64 @@
+body {
+    text-align: center; 
+    background-image: url(./background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn {
+    height: 150px;
+    width: 150px;
+    border-radius: 8%;
+    border: 3px solid black;
+    margin: 1rem
+}
+ 
+.btn-container {
+    height: 350px;
+    width: 450px;
+    border:3px solid rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    margin: 0 auto; 
+    padding:20px 0px;
+}
+
+.red
+{
+    background-color: red;
+}
+.green
+{
+    background-color: greenyellow;
+}
+.blue
+{
+    background-color: blue;
+}
+.yellow
+{
+    background-color: yellow;
+}
+.flash
+{
+    background-color: white;
+}
+
+.over
+{
+    background-color: red;
+}
+.gameover
+{
+    background-image: url(./gameover.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: rgb(247, 205, 238);
+}
+h2{
+    color:rgb(247, 205, 238);
+}
+
